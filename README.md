@@ -3,3 +3,7 @@ Mobile Robot is used for ASC XII Bangkok 2018 which has the objective of moving 
 
 Demo : https://youtu.be/Nx-qIHgWjsc
 
+<p align="center">
+  <img src="RBTN-holder.jpg" width="350" title="hover text">
+</p>
+
